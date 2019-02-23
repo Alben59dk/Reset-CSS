@@ -1,0 +1,28 @@
+// css nav
+
+nav {
+    ul li {
+        float: left;
+        list-style: none;
+        a {
+            display: block;
+            text-decoration: none;
+            width: width dela section/par le nb d'element;
+            font-size: 20px;
+            font-weight: 500;
+            color: ;
+        }
+    }
+}
+
+//
+
+                <nav class="navigation">
+                    <ul>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="#">Informations</a></li>
+                        <li><a href="#">L'équipe</a></li>
+                        <li><a href="#biloute">Réalisations</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
