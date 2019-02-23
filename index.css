@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-style: normal;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display: block;
+}
+
+img,object,embed,canvas,video,audio,picture,svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.center-fuild {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
