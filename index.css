@@ -36,3 +36,13 @@ body {
 .clear {
     clear: both;
 }
+
+// ------------------- Header
+
+header {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-attachement: ;*/
+
+}
