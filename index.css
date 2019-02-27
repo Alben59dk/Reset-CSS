@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+//-----LESS:    width: ~"calc(50% - 20px)";
+//-----CSS:    width: calc(50% - 20px);
+
+//--- variables
+@colorA: ;
+
 * {
     margin: 0;
     padding: 0;
