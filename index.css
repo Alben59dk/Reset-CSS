@@ -43,6 +43,11 @@ body {
     clear: both;
 }
 
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 // ------------------- Header
 
 header {
