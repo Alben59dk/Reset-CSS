@@ -4,7 +4,7 @@
 //-----CSS:    width: calc(50% - 20px);
 
 //--- variables
-@colorA: ;
+//--- @colorA: ;
 
 * {
     margin: 0;
@@ -14,6 +14,7 @@
     font-style: normal;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.5px;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
